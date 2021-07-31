@@ -1,4 +1,4 @@
-Oi, eu sou o Lucas <br>
+Oi, eu sou o Lucas. <br>
 Graduando em: Engenharia de Computação <br>
 Estudando: Linux 🐧 e Rust 🦀 
 
