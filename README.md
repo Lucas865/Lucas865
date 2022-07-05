@@ -1,6 +1,6 @@
 Oi, eu sou o Lucas. <br>
 Graduando em: Ciência da Computação <br>
-Estudando: Linux 🐧, Flutter e Go 📘
+Estudando: Linux 🐧 e C++ 
 
 <div>
 <a href="https://github.com/Lucas865"></a>
